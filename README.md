@@ -1,2 +1,2 @@
 # programacion-scratch
-web sobre programación con scrtach
+web sobre programación con scratch
